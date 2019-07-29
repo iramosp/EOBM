@@ -1,1 +1,5 @@
+numpy
 ipywidgets
+scipy.integrate
+matplotlib
+IPython.display
