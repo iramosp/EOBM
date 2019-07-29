@@ -4,11 +4,6 @@
 <link href='http://fonts.googleapis.com/css?family=Alegreya' rel='stylesheet' type='text/css'>
 <style>
 
-@font-face {
-    font-family: "Computer Modern";
-    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
-}
-
 #notebook_panel { /* main background */
     /*background: rgb(245,245,245);*/
 }
@@ -112,11 +107,6 @@ div.text_cell_render{
     color: grey;
     margin-bottom: 1px;
     margin-top: 1px;
-}
-
-.CodeMirror{
-        font-family: "PT Mono";
-        font-size: 90%;
 }
 
 </style>
@@ -141,11 +131,6 @@ div.text_cell_render{
 <link href='http://fonts.googleapis.com/css?family=Alegreya' rel='stylesheet' type='text/css'>
 <style>
 
-@font-face {
-    font-family: "Computer Modern";
-    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
-}
-
 #notebook_panel { /* main background */
     /*background: rgb(245,245,245);*/
 }
@@ -251,10 +236,6 @@ div.text_cell_render{
     margin-top: 1px;
 }
 
-.CodeMirror{
-        font-family: "PT Mono";
-        font-size: 90%;
-}
 
 </style>
 <script>
